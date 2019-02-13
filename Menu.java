@@ -164,7 +164,7 @@ public class Menu {
 					System.out.println("#  War time! #");
 					System.out.println("##############");
 					
-					for ( int i = 0;i < 3; i++)
+					for ( int i = 0;i < 4; i++)
 					{
 						if(player.getSize() >  1)
 							{tempHand.drawCard(player.loseCard());}
